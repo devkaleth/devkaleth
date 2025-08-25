@@ -49,14 +49,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
 </div>
 
-###
-
-<h3 align="left">🔥   Mis estadísticas :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=devkaleth&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
