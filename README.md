@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="500" src="https://tenor.com/es/view/purple-flow-gif-17973955195105467115.gif"  />
+  <img height="1000" src="https://tenor.com/es/view/purple-flow-gif-17973955195105467115.gif"  />
 </div>
 
 ###
