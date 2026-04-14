@@ -1,6 +1,10 @@
 <div align="center">
-  <img height="1000" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjdvYWRmamJqZzd5MDZ4MzNwb2RoM3plZWEya3BsNGFtbHpuNnFkOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YhFzQw0j4lPNu/giphy.gif"  />
+  <img height="500" src="https://tenor.com/es/view/anime-purple-gif-22539562.gif"  />
 </div>
+
+###
+
+<h3 align="center">Kaleth David Mendoza Vasquez</h3>
 
 ###
 
@@ -12,24 +16,12 @@
 ###
 
 <div align="center">
-  <img src="https://count.getloli.com/@:devkaleth?theme=capoo-2&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=devkaleth.devkaleth&"  />
 </div>
 
 ###
 
-<h1 align="center"></h1>
-
-###
-
-<h3 align="center">Kaleth David Mendoza Vasquez</h3>
-
-###
-
 <p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
-
-###
-
-<h2 align="center">Skills</h2>
 
 ###
 
