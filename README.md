@@ -1,5 +1,7 @@
+<br clear="both">
+
 <div align="center">
-  <img height="1000" src="https://tenor.com/es/view/purple-flow-gif-17973955195105467115.gif"  />
+  <img height="500" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWQ1azd1aWZ1NDRwN3Y5czI5eHMzZm9qbXBqbmo2aG13bmQ5Z3FwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvFocn0wNMx0iv2rYz/giphy.gif"  />
 </div>
 
 ###
@@ -21,7 +23,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Kaleth David, from Colombia 🇨🇴<br><br>- 🔭 I currently work at GrupoRq<br>- 📚 I'm an Engineering student at Uniminuto and a self-taught developer since I was 14<br>- ⚡ In my free time, I continue creating projects and honing my skills</p>
 
 ###
 
@@ -75,16 +77,6 @@
   <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge" height="40" alt="rust logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="40" alt="tailwindcss logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=devkaleth&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
